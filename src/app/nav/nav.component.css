@@ -1,0 +1,18 @@
+#nav-bar{
+    width:250px;  
+    height: 927px;
+    border:2px solid blue;
+
+} 
+
+
+button{
+    position:relative;
+    width:170px;
+    height: 80px;
+    margin-top:30px; 
+    margin-left:25px;
+    display:block;
+
+
+}

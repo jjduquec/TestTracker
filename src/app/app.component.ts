@@ -7,4 +7,25 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'test-tracker';
+
+
+
+  OnComponentSelected($event:string){
+
+    alert("se ha seleccionado el componente:"+$event);
+
+
+
+
+  }
+
+
+
+
+
+
+
+
+
+
 }
